@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="46dp"
         android:layout_marginTop="88dp"
-        android:text="한창훈의 Button"
+        android:text="@string/button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
